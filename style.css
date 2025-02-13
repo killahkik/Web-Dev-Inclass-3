@@ -1,0 +1,15 @@
+
+.cloud {
+    position: fixed;
+    width: 20%;
+    left:5px
+}
+.sun {
+    position: fixed;
+    width: 5%;
+    left: 500px
+}
+.dog {
+    width: 5%;
+}
+
