@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .cloud {
     position: fixed;
@@ -13,3 +14,9 @@
     width: 5%;
 }
 
+=======
+body {background-color: #ff8890;}
+body:hover {background-color: #ff4855;}
+#container {background-color: #ff4652; width: 95%; height: 800px; margin: 20px;}
+#container:hover {background-color: #ff8991;}
+>>>>>>> 18e34b0bf5c5d93522c35f19f7ad85068e476603
