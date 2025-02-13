@@ -1,2 +1,4 @@
 body {background-color: #ff8890;}
+body:hover {background-color: #ff4855;}
 #container {background-color: #ff4652; width: 95%; height: 800px; margin: 20px;}
+#container:hover {background-color: #ff8991;}
